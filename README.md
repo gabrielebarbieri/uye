@@ -1,2 +1,2 @@
-# uye_exercises
+# UYE Exercises
 App for UYE exercises 
